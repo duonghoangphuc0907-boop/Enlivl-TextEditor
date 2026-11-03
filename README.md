@@ -1,2 +1,2 @@
 # Enlivl-TextEditor
-A text editor that can write. Written in Rust.
+Written in Rust that can write.
