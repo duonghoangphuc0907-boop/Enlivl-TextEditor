@@ -1,0 +1,8 @@
+[package]
+name = "enlivl_texteditor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27.2"
+rfd = "0.14.1" # Native file dialogs (Open/Save)
